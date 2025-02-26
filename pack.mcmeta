@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "pack_format": 42,
+        "description": "§6Text Effects\n§fby Akis §8(dc: yeahakis)"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "overlay_1_21_2",
+                "formats": [
+                    42,
+                    999
+                ]
+            }
+        ]
+    }
+}
