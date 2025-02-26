@@ -4,6 +4,8 @@
 Discover a collection of stunning text effects inspired by plugins like **ItemsAdder**. Originally crafted for **[Nexo](https://docs.nexomc.com)**, these effects can also be used in **vanilla Minecraft** by applying the correct hex color codes to your text.
 
 ---
+# I GIVE BOY - THE MAKER AND OWNER OF NEXO - ALL THE PERMISSION TO ADD THIS
+---
 
 ### **Effects and Their Colors**
 
