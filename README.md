@@ -29,4 +29,4 @@ Discover a collection of stunning text effects inspired by plugins like **ItemsA
 ---
 
 ### **Preview**
-![preview](https://twip-network.org/images/text-effects.gif)
+![preview](https://twip-network.org/images/unlisted/text-effects.gif)
